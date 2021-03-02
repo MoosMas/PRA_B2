@@ -157,5 +157,10 @@ namespace WachtrijApp
         {
 
         }
+
+        private void FormWachtrij_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
