@@ -22,3 +22,15 @@ C:\Users\miitchel\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.cspr
 C:\Users\miitchel\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\Users\miitchel\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\Users\miitchel\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe.config
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.pdb
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csprojAssemblyReference.cache
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.FormWachtrij.resources
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.Properties.Resources.resources
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cache
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
+C:\Users\Gebruiker\OneDrive - Curio\PRA\Blok B\B2 - Wachtrij\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
